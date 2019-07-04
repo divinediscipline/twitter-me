@@ -29,7 +29,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-* Deployment instructions
-
-* ...
