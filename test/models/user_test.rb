@@ -40,7 +40,6 @@ class UserTest < ActiveSupport::TestCase
 
   test "password should be present (nonblank)" do
     @user.password = " " * 7
-    p @user, "**************"
     assert_not @user.valid?
   end
 
