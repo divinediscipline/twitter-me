@@ -10,7 +10,7 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'pg'
 gem 'dotenv-rails'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use jquery
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 # Use SCSS for stylesheets
